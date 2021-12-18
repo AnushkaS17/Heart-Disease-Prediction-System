@@ -9,4 +9,4 @@ We will create a model with the following steps:
 ● Train the model to fit the data 
 ● Make predictions using the trained model 
 ● Create a test case and generate a predicted result from the system
-
+DATE CREATED: 18-12-2021
